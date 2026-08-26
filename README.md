@@ -1,4 +1,4 @@
-# Hi there! I'm Daemon Öberg👋
+# Hi there!👋 I'm Daemon Öberg
 
 Welcome to my GitHub profile! I'm a passionate developer exploring interesting projects and collaborating with the community.
 
