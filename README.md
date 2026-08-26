@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! I'm Daemon Öberg👋
 
 Welcome to my GitHub profile! I'm a passionate developer exploring interesting projects and collaborating with the community.
 
@@ -8,7 +8,7 @@ I'm currently focused on building cool things with code and contributing to open
 
 ## Skills & Technologies
 
-Working on it 😋.
+Working on it 😋
 ## Featured Projects
 
 Here are some of my notable projects:
